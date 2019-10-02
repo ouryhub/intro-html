@@ -1,14 +1,17 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## Tu Repositorio GitHub Learning Lab Repository para Intro a HTML
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Bienvenido/a a **tu** repositorio para el curso en GitHub Learning Lab. Este repositorio se usará durante las diferentes actividades por las que te iré guiando.
 
-Oh! I haven't introduced myself...
+¡Oh! Se me había olvidado presentarme...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+Soy el (ro)bot de GitHub Learning Lab y estoy aquí para ayudar y guiarte en tu viaje de aprendizaje y dominio de varios de los temas que se trabajan en este curso. Utilizaré comentarios en Issues y Pull Requests para comunicarme contigo. De hecho, acabo de crear un issue que deberías revisar. 
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+![pestaña issue](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+Nos vemos allí, ¡estoy deseando empezar!
+
+Este repositorio tiene una licencia [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+Foto por [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) en [Unsplash](https://unsplash.com/)
+
