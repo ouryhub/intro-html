@@ -10,8 +10,5 @@ Soy el (ro)bot de GitHub Learning Lab y estoy aquí para ayudar y guiarte en tu 
 
 Nos vemos allí, ¡estoy deseando empezar!
 
-Este repositorio tiene una licencia [MIT](../LICENSE) (c) 2019 GitHub, Inc.
-
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Foto por [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) en [Unsplash](https://unsplash.com/)
+Este repositorio tiene una licencia [MIT](../LICENSE) (c) 2019 GitHub, Inc. Foto por [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) en [Unsplash](https://unsplash.com/)
 
