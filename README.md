@@ -1,4 +1,4 @@
-## Tu Repositorio GitHub Learning Lab Repository para Intro a HTML
+## Tu Repositorio GitHub Learning Lab para Intro a HTML
 
 Bienvenido/a a **tu** repositorio para el curso en GitHub Learning Lab. Este repositorio se usará durante las diferentes actividades por las que te iré guiando.
 
